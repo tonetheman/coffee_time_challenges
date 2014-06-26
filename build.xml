@@ -1,0 +1,14 @@
+<project name="coffeetimechallenges">
+	<path id="cp">
+		<pathelement location="bin" />
+	</path>
+	<target name="compile">
+		<javac
+			srcdir="."
+			destdir="bin">
+		</javac>
+	</target>
+	
+	<target name="run">
+	</target>
+</project>
